@@ -1,6 +1,6 @@
 # 🌐 OS-Systems Scripts Repository
 
-Welcome to the OS-Systems Scripts repository! 🚀
+Welcome to the OS-Systems Scripts repository! 🚀🌈
 
 This repository houses a vibrant collection of PowerShell and Bash scripts crafted to simplify and automate diverse tasks across operating systems.
 
